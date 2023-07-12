@@ -1,0 +1,15 @@
+C:\Users\sruthi\source\repos\BankAccountSystem\bin\Debug\net5.0\BankAccountSystem.exe
+C:\Users\sruthi\source\repos\BankAccountSystem\bin\Debug\net5.0\BankAccountSystem.deps.json
+C:\Users\sruthi\source\repos\BankAccountSystem\bin\Debug\net5.0\BankAccountSystem.runtimeconfig.json
+C:\Users\sruthi\source\repos\BankAccountSystem\bin\Debug\net5.0\BankAccountSystem.runtimeconfig.dev.json
+C:\Users\sruthi\source\repos\BankAccountSystem\bin\Debug\net5.0\BankAccountSystem.dll
+C:\Users\sruthi\source\repos\BankAccountSystem\bin\Debug\net5.0\ref\BankAccountSystem.dll
+C:\Users\sruthi\source\repos\BankAccountSystem\bin\Debug\net5.0\BankAccountSystem.pdb
+C:\Users\sruthi\source\repos\BankAccountSystem\obj\Debug\net5.0\BankAccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sruthi\source\repos\BankAccountSystem\obj\Debug\net5.0\BankAccountSystem.AssemblyInfoInputs.cache
+C:\Users\sruthi\source\repos\BankAccountSystem\obj\Debug\net5.0\BankAccountSystem.AssemblyInfo.cs
+C:\Users\sruthi\source\repos\BankAccountSystem\obj\Debug\net5.0\BankAccountSystem.csproj.CoreCompileInputs.cache
+C:\Users\sruthi\source\repos\BankAccountSystem\obj\Debug\net5.0\BankAccountSystem.dll
+C:\Users\sruthi\source\repos\BankAccountSystem\obj\Debug\net5.0\ref\BankAccountSystem.dll
+C:\Users\sruthi\source\repos\BankAccountSystem\obj\Debug\net5.0\BankAccountSystem.pdb
+C:\Users\sruthi\source\repos\BankAccountSystem\obj\Debug\net5.0\BankAccountSystem.genruntimeconfig.cache
